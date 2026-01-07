@@ -1,0 +1,36 @@
+{
+  "app": {
+    "title": "BINDO",
+    "subtitle": "Compliance Broker SaaS"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "requests": "Requests",
+    "new_request": "New Request"
+  },
+  "dashboard": {
+    "total_requests": "Total Requests",
+    "pending": "Pending",
+    "in_review": "In Review",
+    "ready": "Ready",
+    "no_activity": "No activity yet",
+    "create_request": "Create request"
+  },
+  "requests": {
+    "title": "Requests",
+    "no_requests": "No requests yet",
+    "create_request": "New Request",
+    "view": "View"
+  },
+  "new_request": {
+    "title": "New Request",
+    "company_name": "Company Name",
+    "nit": "NIT",
+    "contract_value": "Contract Value",
+    "term_months": "Term (months)",
+    "drop_pdf": "Drop PDF here or click to select",
+    "drop_pdf_sub": "Supports drag & drop. Only PDF files accepted.",
+    "create_upload": "Create & Upload",
+    "select_pdf": "Please select a PDF file"
+  }
+}

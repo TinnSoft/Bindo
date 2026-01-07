@@ -1,0 +1,36 @@
+{
+  "app": {
+    "title": "BINDO",
+    "subtitle": "Broker de Cumplimiento SaaS"
+  },
+  "nav": {
+    "dashboard": "Panel",
+    "requests": "Solicitudes",
+    "new_request": "Nueva Solicitud"
+  },
+  "dashboard": {
+    "total_requests": "Solicitudes Totales",
+    "pending": "Pendientes",
+    "in_review": "En Revisión",
+    "ready": "Listas",
+    "no_activity": "No hay actividad aún",
+    "create_request": "Crear nueva solicitud"
+  },
+  "requests": {
+    "title": "Solicitudes",
+    "no_requests": "No hay solicitudes aún",
+    "create_request": "Nueva Solicitud",
+    "view": "Ver"
+  },
+  "new_request": {
+    "title": "Nueva Solicitud",
+    "company_name": "Nombre de la empresa",
+    "nit": "NIT",
+    "contract_value": "Valor del contrato",
+    "term_months": "Plazo (meses)",
+    "drop_pdf": "Suelta el PDF aquí o haz click para seleccionar",
+    "drop_pdf_sub": "Soporta arrastrar y soltar. Sólo PDFs.",
+    "create_upload": "Crear y Subir",
+    "select_pdf": "Por favor selecciona un archivo PDF"
+  }
+}
